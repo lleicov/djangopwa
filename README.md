@@ -1,1 +1,1 @@
-# django4-pwa
+# DjangoPWA
